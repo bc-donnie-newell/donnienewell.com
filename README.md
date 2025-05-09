@@ -1,42 +1,29 @@
-# Portfolio Blog Starter
+# donnienewell.com
 
-This is a porfolio site template complete with a blog. Includes:
+This is my personal website and blog. It's built using Next.js and includes:
 
-- MDX and Markdown support
-- Optimized for SEO (sitemap, robots, JSON-LD schema)
-- RSS Feed
-- Dynamic OG images
-- Syntax highlighting
-- Tailwind v4
-- Vercel Speed Insights / Web Analytics
-- Geist font
+* MDX and Markdown support for blog posts
+* Optimized for SEO (sitemap, robots, JSON-LD schema)
+* RSS Feed
+* Dynamic OG images
+* Syntax highlighting
+* Tailwind CSS
+* Vercel Speed Insights / Web Analytics
+* Geist font
 
-## Demo
+## About
 
-https://portfolio-blog-starter.vercel.app
+This is my personal corner of the internet where I share my thoughts, experiences, and projects. I'm primarily focused on Android development but interested in all aspects of software engineering.
 
-## How to Use
+Visit the live site at [donnienewell.com](https://donnienewell.com)
 
-You can choose from one of the following two methods to use this repository:
+## Development
 
-### One-Click Deploy
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/blog&project-name=blog&repository-name=blog)
-
-### Clone and Deploy
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [pnpm](https://pnpm.io/installation) to bootstrap the example:
+To run this project locally:
 
 ```bash
-pnpm create next-app --example https://github.com/vercel/examples/tree/main/solutions/blog blog
+npm install
+npm run dev
 ```
 
-Then, run Next.js in development mode:
-
-```bash
-pnpm dev
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/templates) ([Documentation](https://nextjs.org/docs/app/building-your-application/deploying)).
+Then open [http://localhost:3000](http://localhost:3000) in your browser.
