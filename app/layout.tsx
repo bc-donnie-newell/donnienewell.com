@@ -14,10 +14,10 @@ export const metadata: Metadata = {
     default: 'Donnie Newell',
     template: '%s | Donnie Newell',
   },
-  description: 'This is my personal website.',
+  description: 'Staff Android Engineer. 7 years at Square. Patent holder. Now building independently.',
   openGraph: {
     title: 'Donnie Newell',
-    description: 'This is my personal website.',
+    description: 'Staff Android Engineer. 7 years at Square. Patent holder. Now building independently.',
     url: baseUrl,
     siteName: 'Donnie Newell',
     locale: 'en_US',

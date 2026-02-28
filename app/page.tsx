@@ -18,7 +18,9 @@ export default function Page() {
         </h1>
       </div>
       <p className="mb-4">
-        {`I love creating software that people find useful. Thank you for visiting my site! The last few years I've been solely focused on Android development, but I'm interested in all things software.`}
+        Staff Android Engineer. Nearly 7 years at Square, where I built the
+        tax engine that applies taxes to every transaction. Now building
+        independently and looking for what's next.
       </p>
       <div className="my-8">
         <BlogPosts />
